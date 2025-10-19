@@ -1,6 +1,13 @@
 barcode,name,price,category,current_stock,initial_stock
-101,Odense Pilsner,6.5,beer,300,300
-102,Odense Classic,6.5,beer,450,450
+101,Odense Pilsner,7,beer,300,300
+102,Odense Classic,7,beer,450,450
 103,Royal Blanche,10,beer,150,150
 104,Royal Guld,10,beer,150,150
-
+200,Cult Shaker Orange,13,cider,120,120
+201,Cult Shaker,15.5,cider,120,120
+202,Cult Shaker Sport,15.5,cider,240,240
+111,Booster,13,energy,72,72
+112,Cocio,11,cocio,156,156
+300,Faxe Kondi,7,soda,72,72
+301,Pepsi Max,7,soda,48,48
+302,Pepsi,7,soda,72,72
