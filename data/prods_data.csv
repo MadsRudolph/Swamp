@@ -3,9 +3,9 @@ barcode,name,price,category,current_stock,initial_stock
 102,Odense Classic,7,beer,450,450
 103,Royal Blanche,10,beer,150,150
 104,Royal Guld,10,beer,150,150
-200,Cult Shaker Orange,13,cider,120,120
-201,Cult Shaker,15.5,cider,120,120
-202,Cult Shaker Sport,15.5,cider,240,240
+200,Shaker Orange,13,cider,120,120
+201,Shaker,15.5,cider,120,120
+202,Shaker Sport,15.5,cider,240,240
 111,Booster,13,energy,72,72
 112,Cocio,11,cocio,156,156
 300,Faxe Kondi,7,soda,72,72
